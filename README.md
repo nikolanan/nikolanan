@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikolanan&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolanan&hide_progress=true)
